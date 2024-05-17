@@ -1,8 +1,16 @@
 Contiene información sobre el hardware utilizado en el proyecto.
 
+
+
 Componentes Utilizados:
 
     Lista de los componentes de hardware utilizados en el proyecto, incluyendo placas de desarrollo, sensores, actuadores, etc.
+
+- Sensor de humedad con bomba de agua
+- sensor de temperatura
+- Sensor de calidad de aire
+- Fotoresistencia
+- Esp32 Lora
 
 Esquemáticos:
 
