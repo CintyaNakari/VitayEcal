@@ -1,1 +1,17 @@
 Contiene todos los archivos relacionados con el software del proyecto.
+
+Tecnologías Utilizadas:
+
+    Lista de los lenguajes de programación, frameworks, bibliotecas y herramientas utilizadas en el desarrollo del software del proyecto.
+
+Funcionalidades:
+
+    Descripción detallada de las funcionalidades del software, incluyendo las características principales y cómo interactúa con el hardware y otros sistemas.
+
+Estructura del Código (en Heltec LoRa 32, Raspberry Pi, PC):
+
+    Descripción de la estructura del código fuente (incluyendo los diferentes módulos, clases y funciones) y scripts de Bases de Datos, MQTT, Grafana y Zabbix, así como una breve explicación de su propósito.
+
+Instrucciones de Instalación:
+
+    Pasos detallados para instalar y configurar el software del proyecto en diferentes entornos (Heltec LoRa 32, Raspberry Pi, Modem WiFi), incluyendo cualquier dependencia o requisito especial.
