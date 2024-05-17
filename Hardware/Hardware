@@ -1,1 +1,43 @@
 Contiene información sobre el hardware utilizado en el proyecto.
+
+Componentes Utilizados:
+
+    Lista de los componentes de hardware utilizados en el proyecto, incluyendo placas de desarrollo, sensores, actuadores, etc.
+
+Esquemáticos:
+
+    Esquemáticos y diagramas de conexión (Detallado y claro) de los componentes de hardware utilizados en el proyecto.
+
+Configuración:
+
+    Instrucciones para la configuración física de los componentes de hardware y su conexión entre sí.
+
+Interconexión de Red Cableada e Inalámbrica (Topologia Logica y Fisica, con direccionamiento en los ambientes LoRa, Bluethoo, NFC, GPS, Infrarrojo y Wi-Fi) :
+Cableada:
+
+    Descripción de la configuración de la red cableada utilizada en el proyecto, incluyendo el tipo de cableado, dispositivos de red y su configuración.
+
+Inalámbrica:
+
+    Descripción de la configuración de la red inalámbrica utilizada en el proyecto, incluyendo el tipo de tecnología inalámbrica (Wi-Fi, Bluetooth, Zigbee, etc.), dispositivos de red inalámbrica y su configuración.
+
+Funcionabilidad:
+Escenarios de Uso:
+
+    Evidencia Fotografica y video de escenarios de uso del proyecto, demostrando cómo interactúa el usuario final con el sistema y qué resultados se pueden esperar (datos hisotoricos en la base de datos).
+
+Casos de Uso (para Usuario Final, Administrador ó Proveedor del Servicio):
+
+    Descripción de los diferentes casos de uso del proyecto, detallando las acciones que realiza el sistema y las respuestas esperadas en cada uno.
+
+Limitaciones y Mejoras Futuras:
+
+    Lista de posibles limitaciones del proyecto y áreas que podrían mejorarse en versiones futuras; explicando de forma breve los requisitos y estrategias para lograrlos.
+
+Contribuciones:
+
+    Instrucciones para contribuir al proyecto, incluyendo cómo reportar problemas, enviar solicitudes de extracción y participar en el desarrollo activo.
+
+Licencia:
+
+    Información sobre la licencia del proyecto y los términos de uso para los usuarios y colaboradores.
