@@ -33,11 +33,11 @@ Descripción de la configuración de la red inalámbrica utilizada en el proyect
  
  ## Escenarios de Uso:
 
-En esta sección, presentamos evidencia fotográfica y videográfica que muestra cómo el usuario final interactúa con el sistema de monitoreo continuo para cultivos hidropónicos utilizando tecnología LoRa. A través de estas imágenes y videos, se demostrará el proceso de uso y los resultados esperados, incluyendo la visualización de datos históricos almacenados en la base de datos.
+En esta sección, presentamos evidencia fotográfica y videográfica que muestra cómo el usuario final interactúa con el sistema de monitoreo continuo para cultivos hidropónicos utilizando tecnología LoRa. A través de estas imágenes, se demostrará el proceso de uso y los resultados esperados, incluyendo la visualización de datos históricos almacenados en la base de datos.
 
 ![image](https://github.com/CintyaNakari/VitayEcal/assets/126347757/9e8fa946-7a79-4bac-81f6-334504ff42fc)
 
-Fotografía 1: Pantalla de la aplicación mostrando gráficos en tiempo real.
+Img 1: Pantalla de la aplicación mostrando gráficos en tiempo real.
 
  ## Casos de Uso (para Usuario Final, Administrador ó Proveedor del Servicio):
 
