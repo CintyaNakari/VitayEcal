@@ -14,31 +14,6 @@
 2. Módulos LoRa: Esp32 Lora.
 3. Servicios: MQTT (Protocolo de mensajería basado en estándares),InfluxDB (Base de datos de series temporales), Grafana (Plataforma interactiva) y NodeRed 
 
-## Contribuciones
-
-¡Nos alegra que estés interesado en contribuir a este proyecto! Aquí encontrarás algunas pautas para hacerlo:
-
-### Reportar problemas
-Si encuentras algún error, bug o problema con el proyecto, puedes reportarlo a través de nuestro [sistema de seguimiento de problemas](## Contribuciones
-
-¡Nos alegra que estés interesado en contribuir a este proyecto! Aquí encontrarás algunas pautas para hacerlo:
-
-### Reportar problemas
-Si encuentras algún error, bug o problema con el proyecto, puedes reportarlo a través de nuestro [sistema de seguimiento de problemas en GitHub](https://github.com/CintyaNakari/VitayEcal/issues). Por favor, asegúrate de proporcionar la mayor cantidad de detalles posible, incluyendo pasos para reproducir el problema.
-
-### Desarrolladores del proyecto
-
-- Jimenez Hernandez Cintya Nakari
-- Cruz Maya Yareli de Jesus
-- Hernandez Ariza Josue Emanuel
-- Zuñiga Serrano Arantza Yoseline
-- Angeles Conteras Wendhi Yesbel 
-
-## Licencia
-
-- El aviso de copyright y este aviso de permiso deben incluirse en todas las copias o partes sustanciales del Software.
-- EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑOS U OTRAS RESPONSABILIDADES, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO MODO, DERIVADA DE, FUERA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL SOFTWARE.
-
 ## Escenarios de Uso
 
 ### Implementación del Sistema:
@@ -57,15 +32,6 @@ Si encuentras algún error, bug o problema con el proyecto, puedes reportarlo a 
 - **Respuestas Esperadas**:
   - Visualización de datos en tiempo real a través de paneles de control interactivos.
   - Recepción de alertas para tomar medidas correctivas.
-
-### Administrador:
-- **Descripción**: Una persona responsable de gestionar y asegurar el funcionamiento del sistema.
-- **Acciones del Sistema**:
-  - Configura y mantiene el hardware y software del sistema.
-  - Realiza pruebas y ajustes para mejorar la precisión y eficiencia del monitoreo.
-- **Respuestas Esperadas**:
-  - Datos precisos y optimizados del cultivo.
-  - Informes sobre el estado del sistema y resolución de posibles fallos.
 
 ### Proveedor del Servicio:
 - **Descripción**: Empresa o individuo encargado de la instalación y soporte técnico del sistema.
@@ -99,3 +65,29 @@ Si encuentras algún error, bug o problema con el proyecto, puedes reportarlo a 
 - **Mejora de la Estructura de la Base**:
   - **Requisitos**: Diseñar una base más robusta y adaptable para los sensores y las plantas.
   - **Estrategia**: Utilizar materiales más resistentes y considerar un diseño modular que permita una mayor estabilidad y flexibilidad en diferentes entornos.
+
+
+## Contribuciones
+
+¡Nos alegra que estés interesado en contribuir a este proyecto! Aquí encontrarás algunas pautas para hacerlo:
+
+### Reportar problemas
+Si encuentras algún error, bug o problema con el proyecto, puedes reportarlo a través de nuestro [sistema de seguimiento de problemas](## Contribuciones
+
+¡Nos alegra que estés interesado en contribuir a este proyecto! Aquí encontrarás algunas pautas para hacerlo:
+
+### Reportar problemas
+Si encuentras algún error, bug o problema con el proyecto, puedes reportarlo a través de nuestro [sistema de seguimiento de problemas en GitHub](https://github.com/CintyaNakari/VitayEcal/issues). Por favor, asegúrate de proporcionar la mayor cantidad de detalles posible, incluyendo pasos para reproducir el problema.
+
+### Desarrolladores del proyecto
+
+- Jimenez Hernandez Cintya Nakari
+- Cruz Maya Yareli de Jesus
+- Hernandez Ariza Josue Emanuel
+- Zuñiga Serrano Arantza Yoseline
+- Angeles Conteras Wendhi Yesbel 
+
+## Licencia
+
+- El aviso de copyright y este aviso de permiso deben incluirse en todas las copias o partes sustanciales del Software.
+- EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑOS U OTRAS RESPONSABILIDADES, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO MODO, DERIVADA DE, FUERA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL SOFTWARE.
