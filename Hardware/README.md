@@ -37,7 +37,8 @@ Evidencia Fotografica y video de escenarios de uso del proyecto, demostrando có
 
  ## Casos de Uso (para Usuario Final, Administrador ó Proveedor del Servicio):
 
-Usuario Final
+**Usuario Final**
+
 - Monitoreo de Parámetros en Tiempo Real:
 
   - Acción: El usuario abre la aplicación web o móvil.
@@ -56,7 +57,9 @@ Usuario Final
   - Respuesta: El sistema envía notificaciones (push o email) cuando se superan estos umbrales.
   - Resultado Esperado: El usuario recibe alertas en tiempo real, permitiéndole tomar medidas correctivas rápidamente.
 
-ADMINISTRADOR
+
+**ADMINISTRADOR**
+
 - Gestión de Dispositivos:
 
     - Acción: El administrador accede a una interfaz de gestión de dispositivos.
@@ -75,7 +78,7 @@ ADMINISTRADOR
     - Respuesta: El sistema muestra estadísticas de rendimiento y registros de eventos.
     - Resultado Esperado: El administrador puede identificar y solucionar problemas técnicos de manera proactiva.
 
-PROVEEDOR DEL SERVICIO
+**PROVEEDOR DEL SERVICIO**
 
 - Implementación y Soporte:
 
@@ -114,7 +117,8 @@ PROVEEDOR DEL SERVICIO
     - Requisito: Investigar y desarrollar soluciones energéticamente eficientes, como el uso de energía solar.
 
 
-MEJORAS CONTINUAS
+**MEJORAS CONTINUAS**
+
 - Mejora en la Interfaz de Usuario:
 
     - Mejora: Desarrollar una interfaz de usuario más intuitiva y visualmente atractiva.
