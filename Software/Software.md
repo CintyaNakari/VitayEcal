@@ -21,6 +21,7 @@ En el desarrollo del código del transmisor, se incluyeron varias bibliotecas es
 ## **Herramientas:**
 Utilizamos las siguientes herramientas:
 * **Node-RED:** Herramienta de programación visual basada en flujos para la integración de hardware y software, utilizada para el procesamiento y visualización en tiempo real de los datos.
+[![Node-red](https://i.postimg.cc/GpvjMSBk/200px-Node-red-icon.png)](https://postimg.cc/yJY9xjyd)
 * **InfluxDB:** Base de datos de series temporales eficiente para el almacenamiento de datos recolectados por los sensores.
 * **Grafana:** Plataforma de visualización gráfica y dinámica para crear paneles de control que permiten la visualización detallada de las condiciones ambientales del cultivo.
 * **MQTT:**  Es un protocolo de mensajería ligero y de bajo consumo de ancho de banda diseñado para dispositivos con recursos limitados y redes con ancho de banda limitado.
