@@ -182,7 +182,39 @@ Node-RED tiene como objetivo recibir datos de un sensor LoRa a través de MQTT, 
 [![4.png](https://i.postimg.cc/65xsKJMD/4.png)](https://postimg.cc/8s4Xd3QH) 
 
 Grafana:
+Grafana es una herramienta poderosa para la visualización de datos y el monitoreo de sistemas. 
 
-Descripción de la estructura del código fuente (incluyendo los diferentes módulos, clases y funciones) y scripts de Bases de Datos, MQTT, Grafana y Zabbix, así como una breve explicación de su propósito.
+1. Instalación de Grafana:
+ * Descarga e instala Grafana desde el sitio web oficial.
+2. Conexión a la base de datos de InfluxDB:
+ * Abre la interfaz web de Grafana y ve al panel de configuración.
+ * Agrega una nueva fuente de datos, selecciona InfluxDB y proporciona la información de conexión correspondiente a tu configuración de InfluxDB en Node-RED.
+3. Creación de paneles:
+ * Una vez conectado a InfluxDB, comienza a crear paneles en Grafana.
+ * Haz clic en "Crear" y elige el tipo de panel (gráfico de líneas, barras, tabla, etc.).
+ * Configura la consulta para seleccionar los datos que deseas visualizar desde InfluxDB.
+4. Personalización y configuración avanzada:
+ * Personaliza la apariencia y la configuración del panel según tus necesidades.
+ * Añade múltiples series de tiempo, ajusta los ejes, define alertas y realiza otras configuraciones avanzadas para lograr visualizaciones efectivas de tus datos.
+
+[![5.jpg](https://i.postimg.cc/2yhtcDKd/4.jpg)](https://postimg.cc/dZQn3zvD)
+
+# Resultado final
+
+## **Instalación**
+1 . Clonar el repositorio:
+* Clona este repositorio en tu máquina local.
+  
+2 .Importar códigos de Arduino:
+* Importa los códigos para el Transmisor y el Receptor de Arduino.
+  
+3 .Importar flujo de Node-RED:
+* Importa el flujo de Node-RED.
+  
+4 .Configurar archivos:
+* Configura los archivos .INO y el flujo de Node-RED con tus datos específicos.
+
+5. Ejecutar Sketch y flujo:
+* Ejecuta los Sketch de Arduino y el flujo en Node-RED.
 
 
