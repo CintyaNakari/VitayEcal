@@ -113,4 +113,8 @@ Si encuentras algún error, bug o problema con el proyecto, puedes reportarlo a 
 "Trabajar en el proyecto VitayEcal ha sido una experiencia sumamente gratificante para mí. A través del desarrollo de este sistema, he aprendido la importancia de la tecnología IoT y la precisión en la recolección de datos para mantener condiciones óptimas en los cultivos hidropónicos. Además, la utilización de herramientas como NodeRed y Grafana para la visualización de datos en tiempo real ha sido fundamental para proporcionar a los usuarios una experiencia interactiva y eficiente. Estoy emocionada por el potencial de este proyecto y las futuras mejoras que podemos implementar para hacerlo aún más robusto y accesible."
 
 ### Referencias bibliograficas
-Leroymerlin.es. [Online]. Available: https://www.leroymerlin.es/ideas-y-consejos/consejos/cultivo-hidroponico-todo-que-debes-saber.html. [Accessed: 29-May-2024].
+- Leroymerlin.es. [Online]. Available: https://www.leroymerlin.es/ideas-y-consejos/consejos/cultivo-hidroponico-todo-que-debes-saber.html. [Accessed: 29-May-2024].
+- V. Urdiales-Ponce and J. Espín-Ortega, “Monitoreo de un sistema hidropónico NFT a escala usando arquitectura arduino (PARTE 1),” Rev. Tecnol. Marcha, vol. 31, no. 2, p. 147, 2018.
+- M. A. Z. Aquino, “MANUAL DE HIDROPONIA,” Gob.mx. [Online]. Available: https://www.gob.mx/cms/uploads/attachment/file/232367/Manual_de_hidroponia.pdf. [Accessed: 29-May-2024].
+
+
