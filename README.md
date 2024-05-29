@@ -116,5 +116,9 @@ Si encuentras algún error, bug o problema con el proyecto, puedes reportarlo a 
 - Leroymerlin.es. [Online]. Available: https://www.leroymerlin.es/ideas-y-consejos/consejos/cultivo-hidroponico-todo-que-debes-saber.html. [Accessed: 29-May-2024].
 - V. Urdiales-Ponce and J. Espín-Ortega, “Monitoreo de un sistema hidropónico NFT a escala usando arquitectura arduino (PARTE 1),” Rev. Tecnol. Marcha, vol. 31, no. 2, p. 147, 2018.
 - M. A. Z. Aquino, “MANUAL DE HIDROPONIA,” Gob.mx. [Online]. Available: https://www.gob.mx/cms/uploads/attachment/file/232367/Manual_de_hidroponia.pdf. [Accessed: 29-May-2024].
+- “ESP32 LoRa Heltec v2 with display – pinout diagram,” EscapeQuotes, 23-Feb-2021. [Online]. Available: https://escapequotes.net/esp32-lora-heltec-v2-with-display-pinout-diagram/. [Accessed: 29-May-2024].
+- Usda.gov. [Online]. Available: https://www.nal.usda.gov/farms-and-agricultural-production-systems/hydroponics. [Accessed: 29-May-2024].
+
+
 
 
