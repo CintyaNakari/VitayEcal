@@ -201,6 +201,10 @@ Grafana es una herramienta poderosa para la visualización de datos y el monitor
 
 # Resultado final
 
+[![1.jpg](https://i.postimg.cc/TY820Bhc/1.jpg)](https://postimg.cc/yWPzYQmJ)
+
+[![2.jpg](https://i.postimg.cc/rp9t2MRc/2.jpg)](https://postimg.cc/8FjCh8bn)
+
 ## **Instalación**
 1 . Clonar el repositorio:
 * Clona este repositorio en tu máquina local.
