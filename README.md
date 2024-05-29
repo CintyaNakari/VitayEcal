@@ -111,3 +111,6 @@ Si encuentras algún error, bug o problema con el proyecto, puedes reportarlo a 
 
 ### Reflexión de Angeles Conteras Wendhi Yesbel:
 "Trabajar en el proyecto VitayEcal ha sido una experiencia sumamente gratificante para mí. A través del desarrollo de este sistema, he aprendido la importancia de la tecnología IoT y la precisión en la recolección de datos para mantener condiciones óptimas en los cultivos hidropónicos. Además, la utilización de herramientas como NodeRed y Grafana para la visualización de datos en tiempo real ha sido fundamental para proporcionar a los usuarios una experiencia interactiva y eficiente. Estoy emocionada por el potencial de este proyecto y las futuras mejoras que podemos implementar para hacerlo aún más robusto y accesible."
+
+### Referencias bibliograficas
+Leroymerlin.es. [Online]. Available: https://www.leroymerlin.es/ideas-y-consejos/consejos/cultivo-hidroponico-todo-que-debes-saber.html. [Accessed: 29-May-2024].
