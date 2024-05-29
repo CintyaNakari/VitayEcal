@@ -94,3 +94,16 @@ Si encuentras algún error, bug o problema con el proyecto, puedes reportarlo a 
 
 ## Video de funcionalidad
  [funcionamiento del prototipo](https://www.youtube.com/watch?v=aZBwFWfgOTI)
+ 
+##Conclusiones
+Reflexión de Jimenez Hernandez Cintya Nakari:
+"Trabajar en el proyecto VitayEcal ha sido una experiencia enriquecedora para mí. Desde el inicio, me di cuenta de la importancia de la tecnología IoT en la agricultura moderna, especialmente en cultivos hidropónicos. La integración de sensores y el uso de LoRa para la transmisión de datos nos ha permitido crear un sistema robusto y eficiente. Esta experiencia me ha enseñado a valorar la precisión y la puntualidad en la recolección de datos, esenciales para mantener condiciones óptimas de cultivo. Espero seguir mejorando mis habilidades en este campo y contribuir a innovaciones futuras en la agricultura tecnológica."
+
+Reflexión de Cruz Maya Yareli de Jesus:
+"Participar en este proyecto me ha permitido comprender mejor los desafíos y las oportunidades en el monitoreo de cultivos hidropónicos. A través de la implementación de diferentes tecnologías, he aprendido sobre la importancia de la precisión en la medición de parámetros como la luz, temperatura, CO2 y humedad. Además, el uso de InfluxDB y Grafana para el almacenamiento y visualización de datos ha sido una parte crucial del proyecto, permitiendo una gestión eficiente y en tiempo real. Estoy agradecida por la oportunidad de trabajar en este proyecto y emocionada por las futuras mejoras que podemos implementar."
+
+Reflexión de Hernandez Ariza Josue Emanuel:
+"Desarrollar el sistema VitayEcal ha sido una experiencia desafiante y gratificante. La implementación de la tecnología LoRa para la transmisión de datos ha sido una de las partes más interesantes del proyecto. A lo largo del desarrollo, he aprendido mucho sobre la importancia de una comunicación eficiente y cómo superar las limitaciones físicas que pueden afectar las señales LoRa. Este proyecto me ha inspirado a seguir explorando soluciones innovadoras en el campo de la agricultura tecnológica y a seguir mejorando nuestros sistemas para un mejor rendimiento."
+
+Reflexión de Zuñiga Serrano Arantza Yoseline:
+"Ser parte del equipo de VitayEcal me ha permitido profundizar en el mundo de la tecnología aplicada a la agricultura. La integración de sensores y el monitoreo en tiempo real son elementos clave que pueden transformar la manera en que cultivamos plantas hidropónicas en casa. Me ha impresionado ver cómo la recopilación y el análisis de datos pueden impactar positivamente en la salud y productividad de las plantas. Estoy orgullosa de lo que hemos logrado hasta ahora y entusiasmada por las mejoras futuras que podemos desarrollar para hacer este sistema aún más efectivo y accesible."
